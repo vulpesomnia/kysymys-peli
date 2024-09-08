@@ -1,0 +1,22 @@
+Kerro kaikki pituusyksiköt järjestyksessä pienimmästä suurimpaan.
+mm cm dm m dam hm km
+Mikä on pituusyksiköiden suhde? Esimerkiksi miten monta desimetriä on metrissä?
+Suhde on 1:10, 0.1 dam = 1m = 10dm = 100cm jne.
+Kerro kaikki pinta-alan yksiköt pienimmästä suurimpaan.
+mm² cm² dm² m² a ha km²
+Mikä on pinta-alojen suhde?
+1:100, esim 1 km² = 100 ha = 10000 a = 1000000 m²
+Kerro kaikki tilavuuden yksiköt pienimmästä suurimpaan.
+mm³ cm³ dm³ m³
+Mikä on tilavuusyksiköiden suhde?
+1:1000 esim 1cm³ = 1000m³
+Kerro kaikki vetomitat pienimmästä suurimpaan.
+ml cl dl l dal hl kl
+Miten monta litraa on kuutiometrissä?
+1000 litraa
+Miten monta millilitraa on kuutiosenttimetrissä?
+1 millilitra
+Miten monta kuutiodesimetriä on litrassa?
+1 dm³
+Mikä on vetomittojen suhde?
+1:10, 10ml = 1cl = 0.1dl = 0.01l
