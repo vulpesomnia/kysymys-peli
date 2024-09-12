@@ -9,7 +9,7 @@ Mikä on pinta-alojen suhde?
 Kerro kaikki tilavuuden yksiköt pienimmästä suurimpaan.
 mm³ cm³ dm³ m³
 Mikä on tilavuusyksiköiden suhde?
-1:1000 esim 1cm³ = 1000m³
+1:1000 esim 1m³ = 1000dm³
 Kerro kaikki vetomitat pienimmästä suurimpaan.
 ml cl dl l dal hl kl
 Miten monta litraa on kuutiometrissä?
